@@ -2,6 +2,10 @@
 
 A sophisticated fintech application that leverages Monte Carlo simulations for startup valuation and prediction. This project combines parallel computing with an intuitive Streamlit interface to provide real-time analysis and visualization of startup valuations across various industries.
 
+## Preview
+
+https://postimg.cc/wRY9TkwF
+
 ## 🚀 Features
 
 - **Parallel Computing**: Optimized Monte Carlo simulations using Numba for high-performance computing
